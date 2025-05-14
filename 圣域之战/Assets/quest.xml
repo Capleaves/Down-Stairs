@@ -1,0 +1,11 @@
+<root>
+    <quest>
+        <id>1001</id>
+        <name>击杀两个石头人</name>
+        <enemyid>101</enemyid>
+        <count>2</count>
+        <reward>
+            <money>100</money>
+        </reward>
+    </quest>
+</root>
